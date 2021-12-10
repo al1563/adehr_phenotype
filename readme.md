@@ -23,16 +23,21 @@ In order to run this code, electronic medical record data will need to be extrac
     * The code to identify controls is in `0-controls.R`
 
 **Table Format**
+
 **x_demographics.csv**
+
 Columns: PatientID, Sex, Ethnicity, Race, BirthDate, DeathStatus, Age
 
 **x_diagnosis.csv**
+
 Columns: PatientID, FullDiagnosisName, ICD10_Code, Level2_Category, Level3_Category
 
 **x_medications.csv**
+
 Columns: PatientID, MedicationName, MedicationGenericName(dosage_route_removed)
 
 **x_labresults.csv**
+
 Columns: PatientID, TestName, TestResult
 
 ### Running the Code
