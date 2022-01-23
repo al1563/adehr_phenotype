@@ -42,9 +42,9 @@ Columns: PatientID, TestName, TestResult
 
 ### Running the Code
 
-1. Create python environment and install dependencies
-`conda create --name ehr_phenotype python=3.8 pip`
-`conda activate ehr_phenotype`
+1. Create python environment and install dependencies <br>
+`conda create --name ehr_phenotype python=3.8 pip` <br>
+`conda activate ehr_phenotype` <br>
 `pip install -r requirements.txt`
 
 2. Identify cohort and controls. An example of propensity score matching using R for control identification is in `0-controls.R`.
