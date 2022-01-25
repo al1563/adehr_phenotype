@@ -26,7 +26,7 @@ In order to run this code, electronic medical record data will need to be extrac
 
 **x_demographics.csv**
 
-Columns: PatientID, Sex, Ethnicity, Race, BirthDate, DeathStatus, Age
+Columns: PatientID, Sex, Ethnicity, Race, BirthDate, Death_Status, Age
 
 **x_diagnosis.csv**
 
