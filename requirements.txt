@@ -8,3 +8,4 @@ seaborn==0.10.1
 umap-learn
 tqdm
 matplotlib_venn
+ipywidgets
