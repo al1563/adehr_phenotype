@@ -70,7 +70,7 @@ def countPtsDiagnosis_Dict(csvfileordf, totalpts, diagkeys = diagkeys):
         input: csvfileordf - string that leads to the csv file with diagnosis, or dataframe of diagnosis.
                    columns of csv/df should include: PatientID, ICD10_code, diagkeys
                 totalpts - total number of patients in data
-                diagkeys - diagnostic categories. default: ['DiagnosisName','level3_diagnosis','level2_diagnosis']
+                diagkeys - diagnostic categories. default: ['DiagnosisName','Level3_Category','Level2_Category']
         outputs: diagnosisdict - diagnosis dictionary of dataframes. 
                   diagnosisdict[x] will give you the dataframe for the a diagkey category.
                   each dataframe includes columns: diagkey_category, Count, Count_r
