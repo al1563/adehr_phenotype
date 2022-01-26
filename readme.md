@@ -38,7 +38,7 @@ Columns: PatientID, MedicationName, MedicationGenericName(dosage_route_removed)
 
 **x_labresults.csv**
 
-Columns: PatientID, TestName, TestResult
+Columns: PatientID, TestName, Values
 
 ### Running the Code
 
