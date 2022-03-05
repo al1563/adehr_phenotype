@@ -4,7 +4,7 @@
 This repository contains code associated with the publication 
 **Deep Phenotyping of Alzheimer’s Disease Leveraging Electronic Medical Records Identifies Sex-Specific Associations**
 
-Citation: TBD
+Citation: Tang, A.S., Oskotsky, T., Havaldar, S. et al. Deep phenotyping of Alzheimer’s disease leveraging electronic medical records identifies sex-specific clinical associations. Nat Commun 13, 675 (2022). https://doi.org/10.1038/s41467-022-28273-0
 
 ---
 ###  Data Preparation
